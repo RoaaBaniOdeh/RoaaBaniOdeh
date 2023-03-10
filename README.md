@@ -8,22 +8,9 @@ Here are some ideas to get you started:
 - 🎓I studied Computer System Engineering AAUP. 
 - 🌱 I’m currently learning React.
 
-
-
-
-
-
-
-
-
-
-
-### &nbsp;Database
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
-
 ## Backend as a Service(BaaS)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 -->
 
 
@@ -38,3 +25,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+
+### &nbsp;Database
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
